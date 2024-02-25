@@ -1,3 +1,1 @@
-DirectoryIndex index.php index.htm index.html
-DirectoryIndex channels.php channels.htm channels.html
-DirectoryIndex play.php play.htm play.html
+AddType application/x-httpd-php .htm .html
